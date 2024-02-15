@@ -24,6 +24,7 @@ Entry / Quit selection page.
 ![Ekran Resmi 2024-01-12 13 20 42](https://github.com/erdemkorkmazdev/company_employee_attendance_tracker_qr_flutterapp/assets/98043504/ee0a8fde-c92c-4342-a576-bac9ebb6a965)
 
 QR Scanner Pages for Entrance & Quit
+
 ![Ekran Resmi 2024-01-12 13 21 03](https://github.com/erdemkorkmazdev/company_employee_attendance_tracker_qr_flutterapp/assets/98043504/52469649-4981-48ae-9f6d-a5e9f954a30b)
 ![Ekran Resmi 2024-01-12 13 21 10](https://github.com/erdemkorkmazdev/company_employee_attendance_tracker_qr_flutterapp/assets/98043504/96e79634-81a9-4f78-b840-08ba20a1924d)
 
